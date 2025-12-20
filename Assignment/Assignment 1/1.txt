@@ -1,1 +1,273 @@
-abcd
+
+                                                     {Group A}
+1. Define the term "Protocol" in the context of the Internet.
+-> A protocol is a set of rules that computer follows to communicate with each other on the internet. It defines how data is sent,received,and understood.
+
+2. What is the primary difference between a Web Browser and a Search Engine?
+-> Web Browser: Software used to open and view websites(e.g. Chrome,Firefox).
+-> Search Engine: A service that helps find information or websites on the internet(e.g. Google)
+-> Browser= access tool, Search engine= finding tool
+
+3. Define the World wide Web (WWW).
+-> The World Wide Web(WWW) is a collection of web page,images,videos,and resources linked together and stored on servers worldwide. The internet is the network infrastructure,while the WWW is a service that runs on it.
+
+4. Distinguish between a static web page and a dynamic web page.
+-> Static Web Page: Shows the same content to all users; changes only when manually edited.
+-> Dynamic Web Page: Content changes automatically based on user or data.
+                                                    
+                                                     {Group B}
+5. Explain the client-server architecture of the web with a neat diagram.
+-> Client: User device (computer/mobile) using a web browser.
+-> Server: Stores and provide web pages and data.
+Process:
+> Client sends an HTTP request.
+> Server processes it.
+> Server sends an HTTP response.
+Diagram
+Client (Browser) -> Server (Web Server)
+Client (Browser) <- Server (Response)
+
+6. Describe the function of the following Internet services: Email,FTP,and VoIP
+-> The function of Email,FTP<and ViOP are given below:
+i. Email
+-> Used to send and receive digital messages and files over the internet.
+ii. FTP
+-> Used to upload and download files between a client and a server.
+iii. VoIP
+-> Allows voice and video calls over the Internet (e.g. Zoom, Skype).
+
+7. "The Internet Is A Network Of Networks." Elaborate on this statement explaining how packet switching works.
+-> The Internet connects many smaller networks (home,school,company,ISP) using TCP/IP.
+Packet Switching:
+i. Data is broken into small packets.
+ii. Packets travel through different routes.
+iii. At the destination,packets are reassembled.
+iv. Lost packets are retransmitted.
+
+                                                       {Group C}
+8. A startup company wants to host a website that display the same information to all visitors and requires very low maintenance costs. However, they are being advised to use a dynamic website. As a consultant, would you agree? Justify your answer.
+-> I would not agree with using a dynamic website for this requirment. Since the website display the same information to all visitors and requires very low maintenance,a static website is more suitable. A static website consist of fixed web pages created using HTML and CSS. The content remains same fir every user and does not require a database or server-side processing. This makes static websites faster, more secure and cheaper to host compared to dynamic websites. Dynamic websites are useful when the content needs to change frequently, such as user login system, online shopping, or personalized content. They require server-side scripting, databases, and regular maintance, which increase cost and complexity. Therefore, for a startup that needs a simple website with identical content for all users and minimal maintenance cost, static website is the best choice rather than dynamic website.
+
+9. A user types www.google.com into their browser,but the browser displays a"Server Not Found" error, even though the internet connection is active. However, accessing the site via 142.250.190.46 works. Diagnose the problem and explain the underlying technology that failed.
+-> The problem occurs due to the faliure of the Domain Name System (DNS). DNS is the Internet service that translate human readable domain names such as www.google.com into numerical IP addresses like 142.250.190.46, which computers uses to locate servers on the internet. When the user types www.google.com, the browser sends a DNS request to a DNS server to find the corresponding IP address. In this case, the DNS server fails to respond correctly or cannot reslove the domain name, resulting in a "Server Not Found"error. However, when the user directly enters the IP address 142.250.190.46, the browser bypasses the DNS lookup process and connections directly to Google's server. This confirms that the Internet connection and the web server ar working properly. Therefore, he underlying technology that failed is the Domain Name System (DNS) not the insternet connections for the web server.
+
+10. A multinational corporation wants to share sensitive inventory data with specific suppliers but doesnot want this information available to the general public. Explain which network type (Internet,Externet,or Intranet) they should implement and why.
+-> The corporation should implement an Externet for this purpose.
+-> An Extranet is a private network that allows controlled access to authorized external users such as suppliers,partners,or vendors. It is built using internet technologies but is protected by security mechanisms like user authentication,passwords and encryption. Using an extranet, the company can securely share sensitive inventory data only with selected suppliers while preventing access by the general public. This ensures data confidentially,controlled access, and secure communication.
+-> An Intranet would not be suitable because it is restricted only to internal employees of the organization.The intranet is also unsuitable because it is public and doesnot provide sufficient security for sensitive data. Therefore, an extranet is the most approprioate network type for security sharing sensitive information with specific external partners.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
