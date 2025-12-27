@@ -12,6 +12,7 @@
 
 ### 1. Define the term ”Sitemap” in the planning phase.
 **Answer:**
+**A sitemap is a visual or structured outline of all the pages of a website and their relationships.It hepls plan the website's structure and navigation before development begins.**
 
 
 ### 2. What is the purpose of the ”Launch” phase in web development?
