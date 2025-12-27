@@ -12,11 +12,11 @@
 
 ### 1. Define the term ”Sitemap” in the planning phase.
 **Answer:**
-**A sitemap is a visual or structured outline of all the pages of a website and their relationships.It hepls plan the website's structure and navigation before development begins.**
+**A sitemap is a visual or structured outline of all the pages of a website and their relationships. It hepls plan the website's structure and navigation before development begins.**
 
 ### 2. What is the purpose of the ”Launch” phase in web development?
 **Answer:**
-**The lunch phase is when the website is made live on the server for public access after final testing.It ensures the site is properly deployed, accessible, and functioning as intended.**
+**The lunch phase is when the website is made live on the server for public access after final testing. It ensures the site is properly deployed, accessible, and functioning as intended.**
 
 ### 3. Why is ”Documentation” important in the development lifecycle?
 **Answer:**
@@ -34,25 +34,24 @@
 
 ### 6. Explain the iterative nature of the Maintenance phase. Why is a website never truly ”finished”?
 **Answer:**
-**The maintenance phase is iterative because it involves continuous updates,bug fixes,content changes, and performance improvements.A website is never truly "finished"because technology envolves, user needs change, and content must stay current to remain useful and secure.**
-
+**The maintenance phase is iterative because it involves continuous updates,bug fixes,content changes, and performance improvements. A website is never truly "finished"because technology envolves, user needs change, and content must stay current to remain useful and secure. As user requirements change and new technologies emerge, regular maintenance is required. Therefore, a website is neverly compeletely finished out and must be continuously improved.**
 
 ### 7. Describe the process of ”Information Gathering.” Why is understanding the target audience crucial during this step?
 **Answer:**
-
-
+**Information gathering is the first step of web development where details about the project are collected. It involves meeting the client, understanding business goals, indentifying website purpose, analyzing competitors, and defining content requirements. Understanding the target aundience is crucial because it helps creat a website that is user-friendly, relevent, and effective.**
 
 ## Group C: Scenario-Based Questions (5 Marks)
 
 ### 8. You are the project manager for a new e-commerce site. The client wants to skip the ”Testing” phase to save money and launch early. Write a persuasive argument explaining the potential risks (security, functionality, compatibility) of skipping this phase.
 **Answer:**
-
+**Skipping the testing phase can cause serious problem in an e-commerce website. Security weaknesses may lead to data theft or hacking. Functional errors like payment faliures or broken links ca affect sales. Compatibility issuse may prevent the website from working properly on different browsers or devices. Testing ensures the website is secure,reliable, and provides a smooth user experience before lunch.**
 
 ### 9. A developer begins coding a website immediately after meeting the client, without creating a design prototype or sitemap. Midway through, the client rejects the layout. Analyze what went wrong in the process and how it should have been handled.
 **Answer:**
-
+**The main problem was the absence of proper planning and design. The developer started coding with out preparing a sitemap or design prototype,so the client could not visualize the final layout. This resulted in confusion and rejection of the design later. The project should have followed proper steps such as planning, creating design mockups, and getting client approval before development.**
 
 ### 10. A university website was launched successfully, but after six months, students stopped visiting it because the exam schedules were outdated. Which phase of the development lifecycle was neglected? Explain the activities involved in this phase.
 **Answer:**
+**The maintenance phase was neglected in this case. Maintenance includes updating information, correcting errors, improving perfromance, and keeping content current. Since exam schedules were not updated, students stopped visiting the websites. Regular maintenance would have kept the wbsites useful and relevant.**
 
 
