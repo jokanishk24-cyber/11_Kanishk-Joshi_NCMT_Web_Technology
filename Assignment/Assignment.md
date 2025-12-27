@@ -1,10 +1,10 @@
 # Web Technology  
 ## Assignment 
 
-Student Name: Kanishk Joshi  
-Roll/ID No: 11  
-Program: BIT  
-Date: 2025/12/27
+*Student Name:* Kanishk Joshi  
+*Roll/ID No:* 11  
+*Program:* BIT  
+*Date:* 2025/12/27
 
 ##  CHAPTER 2: WEBSITE DEVELOPMENT PROCESS
 
@@ -12,7 +12,6 @@ Date: 2025/12/27
 
 ### 1. Define the term ”Sitemap” in the planning phase.
 Answer:
-
 
 
 ### 2. What is the purpose of the ”Launch” phase in web development?
